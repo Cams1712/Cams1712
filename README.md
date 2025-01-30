@@ -4,7 +4,7 @@ Hellooo!<br><br>I am Cams1712, and I hope you like to browse my profile!<br><br>
 ## Work experience
 Below, you will find a little about my work experience:
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="[https://media.licdn.com/dms/image/D4D0BAQGEdDqGnB505A/company-logo_200_200/0/1688392027624?e=1704931200&v=beta&t=URERS0d-YgmrSHHRjtBZV2BB5ixX4Ck4BFnuTRG6MR8](https://www.bosch-press.com.br/pressportal/zip?country=br&language=pt&docId=16832)"/>](https://www.bosch.com.br/)
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://assets.bosch.com/media/global/bosch_group/our_figures/brands/bosch-brand-bosch_res_400x225.webp"/>](https://www.bosch.com.br/)
 
 **Software Programmer** \
 [**Bosch**](https://www.bosch.com.br/) • Full-time \
